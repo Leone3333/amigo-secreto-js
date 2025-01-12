@@ -1,11 +1,11 @@
 class Users 
 {
     // ld = lista de desejos
-    constructor(nome, ld, tam_camisa, tm_calcado){
+    constructor(nome, ld, tam_camisa, tam_calcado){
         this.nome = nome;
         this.ld = ld;
         this.tam_camisa = tam_camisa;
-        this.tm_calcado = tm_calcado;
+        this.tam_calcado = tam_calcado;
     }
 }
 
